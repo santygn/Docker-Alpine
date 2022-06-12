@@ -3,7 +3,7 @@
 ***
 - Inicialmente instalamos la version de Alpine que sea mas conveniente para nosotros desde la [web](https://alpinelinux.org/downloads/ "Instalar Alpine") oficial de Alpine.
 
-[](https://github.com/santygn/Docker-Alpine/blob/1fdd1dd3a3ca4a40647e0b2e750b5309ba9b78e6/img3/1.png)
+[alt](https://github.com/santygn/Docker-Alpine/blob/1fdd1dd3a3ca4a40647e0b2e750b5309ba9b78e6/img3/1.png)
 
 - Tras esto creamos una maquina virtual en Virtual Box y la configuramos.
 
